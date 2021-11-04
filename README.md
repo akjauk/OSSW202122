@@ -1,12 +1,13 @@
 # OSSW202122
 
-Hi ich bin Anni aus Villigen 
+Hi ich bin Mumpi aus Glasgow 
+![Weihnachtsvogel von Among us](Bild-URL "Mumpi in Aktion")
 
 ## Lebenslauf
 
 Meine letzten Arbeitsstationen waren:
-+ Forschungsprojekt PREFERML
-+ Haufe Lexware, Werkstudentin
-+ Haufe Lexware, Praxissemester
++ CEO von Google
++ Kapitänin von Seewatch
++ Bassistin der Arctic Monkeys
 
 u.v.m.
