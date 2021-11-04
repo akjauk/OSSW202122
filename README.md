@@ -1,7 +1,8 @@
 # OSSW202122
 
 Hi ich bin Mumpi aus Glasgow 
-![Weihnachtsvogel von Among us](Bild-URL "Mumpi in Aktion")
+
+![Weihnachtsvogel von Among us](Weihnachtsvogel.png "Mumpi in Aktion")
 
 ## Lebenslauf
 
